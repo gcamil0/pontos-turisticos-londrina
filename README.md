@@ -4,14 +4,14 @@
 
 # Grupo
 
-- Guilherme Camilo da Silva
-- Eduardo Stocchero Zancanaro
-- Gustavo Martire
+- [Guilherme Camilo da Silva](https://github.com/gcamil0/pontos-turisticos-londrina)
+- [Eduardo Stocchero Zancanaro](https://github.com/zaaanca/pontosturisticoslondrina)
+- [Gustavo Martire](https://github.com/GustavoMartire/pontosturisticoslondrina)
 
 # 10 Pontos Turísticos de Londrina - PR
 
 Londrina, no norte do Paraná, é uma cidade cheia de história, cultura e natureza. Confira abaixo os 10 principais pontos turísticos da cidade:
-
+.
 ---
 
 ## 1. **Lago Igapó**
@@ -84,4 +84,3 @@ Um dos maiores estádios de futebol do Paraná, o Zerão é um ponto de interess
 
 ---
 
-Para mais informações, acesse o site oficial da [Prefeitura de Londrina](https://www.londrina.pr.gov.br/).
